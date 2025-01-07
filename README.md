@@ -1,1 +1,1 @@
-# course_work
+# data-mining-assesment
